@@ -4,6 +4,6 @@ You will find here all the files needed to upgrade your Creality CR-10/CR-10S to
 <br />
 There is 2 folder inside the Skirt, one containing all non modified files (original Trident Skirt) and another one containing the files I modified in Fusion 360 to fit the CR-10 frame.
 
-![Overall view](images/Overall%20view.JPG)
+
 
 PascalP
