@@ -1,5 +1,6 @@
 # CR-10-conversion-to-SwitchWire
 
 You will find here all the files needed to upgrade your Creality CR-10/CR-10S to a Voron Switchwire. This is an on-going project, far from being finished so be patient ;)
+There is 2 folder inside the Skirt, one containing all non modified files (original Trident Skirt) and another one containing the files I modified in Fusion 360 to fit the CR-10 frame.
 
 PascalP
