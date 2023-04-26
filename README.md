@@ -11,4 +11,10 @@ https://lamaisondumaker.be/conversion-cr-10s-en-voron-switchwire-ou-presque/
 
 ![Overall view](images/Overall-view.JPG)
 
+<br />
+<br />
+**About the skirt**
+
+<br />
+
 PascalP
