@@ -13,7 +13,17 @@ https://lamaisondumaker.be/conversion-cr-10s-en-voron-switchwire-ou-presque/
 
 <br />
 <br />
-**About the skirt**
+# About the skirt
+<br />
+The skirt is a combination of the Trident 250 and the Trident 350 original skirt. To fit the frame of the CR-10 I had to create some custom parts. 
+<br />
+For the front side and the back side, I modified only the middle piece to make it smaller by removing a few cm from the middle so the honeycomb remains aligned with the left and right parts.
+<br />
+For the sides of the frame I create new parts, except for the middle part that must be the same as original to fit the 6020 fans. I choose also to mount them backwards so the honeycomb stays aligned with the honeycomb from the center part.
+<br />
+I'm using the same rubber feet as the Trident. You can find them easily on Internet. I took mine on AliExpress for $7 ^^
+<br />
+
 
 <br />
 
