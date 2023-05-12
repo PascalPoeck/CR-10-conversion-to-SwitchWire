@@ -5,7 +5,7 @@ You will find here all the files needed to upgrade your Creality CR-10/CR-10S to
 There is 2 folder inside the Skirt, one containing all non modified files (original Trident Skirt) and another one containing the files I modified in Fusion 360 to fit the CR-10 frame.
 <br />
 <br />
-I also created on my website a blog post about this project but it's in French. The only part that could be interesting for you is the Fusion 360 view ;)
+I also created on my website a blog post about this project. You will find more info there and also the Fusion 360 view of the beast ;)
 <br />
 https://lamaisondumaker.be/conversion-cr-10s-en-voron-switchwire-ou-presque/ 
 
