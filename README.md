@@ -23,7 +23,14 @@ For the sides of the frame I create new parts, except for the middle part that m
 <br />
 I'm using the same rubber feet as the Trident. You can find them easily on Internet. I took mine on AliExpress for $7 ^^
 <br />
-
+<br />
+# About the Core XZ
+<br />
+After working on the skirt I finished the Core XZ part and it's seems to work as expected. All the printed parts are the same as the one on Voron's Github. 
+Note that the Key Back doesn't fit because the cable is too short so I will change it later with the alternative proposed on Voron Mods. 
+Also I had to shorten the X 2020 to keep the belt aligned propely.
+I'm curently printing an sourcing the parts for the Stealthburner but I'm not sure I will keep this one, will see later as well.
+Next step is to work on the Y axes and electronics.
 
 <br />
 
