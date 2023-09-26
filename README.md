@@ -7,7 +7,7 @@ There is 2 folder inside the Skirt, one containing all non modified files (origi
 <br />
 I also created on my website a blog post about this project. You will find more info there and also the Fusion 360 view of the beast ;)
 <br />
-https://lamaisondumaker.be/conversion-cr-10s-en-voron-switchwire-ou-presque/ 
+https://lamaisondumaker.be/conversion/ 
 
 ![Overall view](images/Overall-view.JPG)
 
