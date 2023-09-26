@@ -9,7 +9,7 @@ I also created on my website a blog post about this project. You will find more 
 <br />
 https://lamaisondumaker.be/conversion/ 
 
-![Overall view](images/Overall-view.JPG)
+![IMG_1023](images/IMG_1023.JPG)
 
 <br />
 <br />
