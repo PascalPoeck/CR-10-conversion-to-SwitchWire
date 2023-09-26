@@ -9,7 +9,7 @@ I also created on my website a blog post about this project. You will find more 
 <br />
 https://lamaisondumaker.be/conversion/ 
 
-![IMG_1023](images/IMG_1023.JPG)
+![Overall view](https://github.com/PascalPoeck/CR-10-conversion-to-SwitchWire/blob/main/images/IMG_1023.JPEG)
 
 <br />
 <br />
